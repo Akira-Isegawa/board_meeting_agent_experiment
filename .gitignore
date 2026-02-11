@@ -53,3 +53,10 @@ htmlcov/
 .coverage
 *.cover
 .hypothesis/
+
+# Generated files in root directory
+/discussion_log.md
+/evaluation.md
+/minutes.md
+/qa.md
+/refined_proposal.md
