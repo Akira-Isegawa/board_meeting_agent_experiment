@@ -1,0 +1,20 @@
+# 開発・テスト用の依存関係
+# インストール: pip install -r requirements-dev.txt
+
+# テストフレームワーク
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+
+# Python 3.9で新しい型構文をサポート
+eval-type-backport>=0.2.0
+
+# コード品質
+black>=24.0.0
+flake8>=7.0.0
+mypy>=1.8.0
+isort>=5.13.0
+
+# その他の開発ツール
+ipython>=8.20.0
